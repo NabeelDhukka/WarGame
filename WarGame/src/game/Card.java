@@ -28,4 +28,14 @@ public class Card {
 	
 	
 	
+//	String suit[] = {spades, diamonds, hearts, clubs};
+//	for(i=1; i<=13 ; i++) {
+//		for(j=0; j<4 ; j++) {
+//			card.setsuit(suit[j]);
+//			card.value(i);
+//		}
+//		deck.add(Card);
+//	}
+	
+	
 }

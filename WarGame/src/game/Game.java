@@ -3,9 +3,13 @@ package game;
 public class Game {
 
 	
-	int main() {
-		return 0;
+	public void constructDeck() {
 		
 		
 	}
+	
+	
+	
+	
+	
 }
